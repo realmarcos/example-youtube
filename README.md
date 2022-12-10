@@ -1,2 +1,2 @@
-# example-youtube
- Exemplo do Youtube.
+# Exemplo prático do Youtube
+Esse é apenas um exemplo.
